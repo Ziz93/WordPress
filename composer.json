@@ -1,0 +1,15 @@
+{
+    "name": "behance/wordpress",
+    "description": "Behance fork of WordPress",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Andrew Nacin",
+            "email": "nacin@wordpress.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
